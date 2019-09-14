@@ -3,3 +3,10 @@ In this game, the player must select the right name for the corresponding pictur
 
 
 ![The page where users indicate the correct name](questions_page.png)
+The page where users indicate the correct name
+
+![The page where users can see game statistics](statistics_page.png)
+The page where users can see game statistics
+
+![User is unable to answer question in 5 seconds](timer_up_page.png)
+User is unable to answer question in 5 seconds
